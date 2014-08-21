@@ -1,5 +1,5 @@
 #include<stdio.h>
-/*コンパイル方法*/
+/*compile*/
 // cc Hello.c -o Hello
 // ./Helo
 
