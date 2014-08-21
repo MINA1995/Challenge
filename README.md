@@ -1,7 +1,7 @@
-Challenge< Finis Corretction 01>
+Challenge <Finis Corretction 01>
 =========
 
-<<HELLO,WORLD>> program code
+[HELLO,WORLD] program code
 
 In terminal
 
